@@ -1,1 +1,1 @@
-# -dev
+Sadece subscribe yapabildim.
